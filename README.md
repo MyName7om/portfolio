@@ -1,19 +1,19 @@
 # Portfolio
 
 ## Education 
-- ** BSc Computer Science | Heriot Watt Universtiy _(June 2025)_ **
+- **BSc Computer Science | Heriot Watt Universtiy (_June 2025_)**
 - Relevant info e.g. courses relevant to job and what you did e.g. worked with a group and designed then created a thing using this and that.
 
-- **ALevel | St Leonards Catholic School Durham _(June 2020)_ **
+- **A Levels | St Leonards Catholic School Durham (_June 2020_)**
 - ABB, Maths, Computer Science, Physics (respectively)
 
 ## Projects 
-- project 1
-- project 2
-- project 3
+- **project 1**
+- **project 2**
+- **project 3**
 
 ## Career Summary
-** Bar staff at St Josephs Parish Centre _(June 2023 - Present)_ ** 
+**Bar staff at St Josephs Parish Centre (_June 2023 - Present_)** 
 - Managed and maintained bar during mulitple functions serving over 140 guests while working alone. 
 
 ## About Me
