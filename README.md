@@ -2,7 +2,7 @@
 
 ## Education 
 - **BSc Computer Science Heriot Watt Universtiy (_June 2025_)**
-|  Relevant info e.g. courses relevant to job and what you did e.g. worked with a group and designed then created a thing using this and that.
+| Relevant info e.g. courses relevant to job and what you did e.g. worked with a group and designed then created a thing using this and that.
 
 - **A Levels St Leonards Catholic School Durham (_June 2020_)**
 | ABB in Maths, Computer Science, Physics (respectively)
