@@ -1,10 +1,10 @@
 # Portfolio
 
 ## Education 
-### BSc Computer Science | Heriot Watt Universtiy *(June 2025)*
+- ** BSc Computer Science | Heriot Watt Universtiy _(June 2025)_ **
 - Relevant info e.g. courses relevant to job and what you did e.g. worked with a group and designed then created a thing using this and that.
 
-### ALevel | St Leonards Catholic School Durham *(June 2020)*
+- **ALevel | St Leonards Catholic School Durham _(June 2020)_ **
 - ABB, Maths, Computer Science, Physics (respectively)
 
 ## Projects 
