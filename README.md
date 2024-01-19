@@ -15,6 +15,5 @@ I am a Computer Science undergraduate at Heriot Watt University with an excellen
 - project 3
 
 ## Career Summary
-- June 2023 - Present    Bar staff at St Josephs Parish Centre
-- ### Outline
--   Serving customers drinks, maintaining the bar and organising stock 
+### Bar staff at St Josephs Parish Centre *(June 2023 - Present)*
+- Managed and maintained bar during mulitple functions serving over 140 guests while working alone. 
