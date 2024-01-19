@@ -5,7 +5,7 @@
 - |  Relevant info e.g. courses relevant to job and what you did e.g. worked with a group and designed then created a thing using this and that.
 
 - **A Levels St Leonards Catholic School Durham (_June 2020_)**
-- | ABB, Maths, Computer Science, Physics (respectively)
+- | ABB in Maths, Computer Science, Physics (respectively)
 
 ## Projects 
 - **project 1**
