@@ -7,8 +7,9 @@
 - **A Levels St Leonards Catholic School Durham (_June 2020_)**
   - ABB in Maths, Computer Science, Physics (respectively)
 
-## Projects 
-- [**project 1**](project-1.md)
+## Projects  
+click on the project to see more information  
+- [**project 1**(*click me*)](project-1.md)
 - **project 2**
 - **project 3**
 
