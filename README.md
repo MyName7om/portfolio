@@ -2,7 +2,7 @@
 
 ## Projects  
 _(Click on the titles to learn more)_
-- [**project 1**](project-1.md)
+- [project 1](project-1.md)
 - **project 2**
 - **project 3**
 
