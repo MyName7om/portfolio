@@ -8,7 +8,7 @@
   - ABB in Maths, Computer Science, Physics (respectively)
 
 ## Projects  
-_(Click on the titles to find learn more)_
+_(Click on the titles to learn more)_
 - [**project 1**](project-1.md)
 - **project 2**
 - **project 3**
