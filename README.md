@@ -1,6 +1,6 @@
 # Portfolio
 ## Thomas Allan
-[/assets/IMG_4912-modified.png]
+![](assets/IMG_4912.png)
 
 ## Education 
 - **BSc Computer Science Heriot Watt Universtiy (_June 2025_)**
