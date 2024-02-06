@@ -1,5 +1,10 @@
 # Portfolio
-## Thomas Allan
+
+## Projects  
+_(Click on the titles to learn more)_
+- [**project 1**](project-1.md)
+- **project 2**
+- **project 3**
 
 ## Education 
 - **BSc Computer Science Heriot Watt Universtiy (_June 2025_)**
@@ -7,12 +12,6 @@
 
 - **A Levels St Leonards Catholic School Durham (_June 2020_)**
   - ABB in Maths, Computer Science, Physics (respectively)
-
-## Projects  
-_(Click on the titles to learn more)_
-- [**project 1**](project-1.md)
-- **project 2**
-- **project 3**
 
 ## Career Summary
 **Bar staff at St Josephs Parish Centre (_June 2023 - Present_)** 
